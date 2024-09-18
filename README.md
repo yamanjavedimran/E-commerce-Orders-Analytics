@@ -33,12 +33,19 @@ Run the setup.sql script to create the necessary tables and import data.
 Update the date format in the orders table:
 
 SET SQL_SAFE_UPDATES = 0;
+
 UPDATE orders
+
 SET order_date = STR_TO_DATE(order_date, '%m/%d/%Y'),
+
 ship_date = STR_TO_DATE(ship_date, '%m/%d/%Y');
+
 ALTER TABLE orders
+
 MODIFY COLUMN order_date date, 
+
 MODIFY COLUMN ship_date date;
+
 SET SQL_SAFE_UPDATES = 1;
 
 
