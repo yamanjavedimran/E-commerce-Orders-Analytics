@@ -46,32 +46,52 @@ SET SQL_SAFE_UPDATES = 1;
 The project includes various SQL queries for in-depth analysis:
 
 • Revenue analysis by product category
+
 • Count of unique products ordered
+
 • Yearly revenue analysis
+
 • Order date range analysis
+
 • Product category with lowest average price
+
 • Top 10 highest performing products
+
 • Revenue and profit analysis by account manager
+
 • Highest selling product analysis for 2017
+
 • Average order amount by customer type
+
 • 5th highest selling product
+
 • Lowest selling product
+
 •Most profitable product
 
 ## Key Insights
 (This section will be populated with key findings after running the analyses. Some potential insights based on the queries:)
 
 • Product category performance in terms of revenue
+
 • Year-over-year revenue trends
+
 • Price range and performance of different product categories
+
 • Top-performing products and their characteristics
+
 • Account manager performance in terms of revenue and profit
+
 • Customer spending patterns by type
+
 • Identification of best-selling and underperforming products
 
 ## Future Enhancements
 
 • Implement more advanced analytics such as customer lifetime value calculation and churn prediction
+
 • Create visualisations using a BI tool like Power BI or Tableau
+
 • Automate the data import process for real-time analysis
+
 • Develop a dashboard for easy monitoring of key performance indicators
