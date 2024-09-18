@@ -42,7 +42,7 @@ MODIFY COLUMN ship_date date;
 SET SQL_SAFE_UPDATES = 1;
 
 
-SQL Queries
+## SQL Queries
 The project includes various SQL queries for in-depth analysis:
 
 • Revenue analysis by product category
@@ -58,7 +58,7 @@ The project includes various SQL queries for in-depth analysis:
 • Lowest selling product
 •Most profitable product
 
-Key Insights
+## Key Insights
 (This section will be populated with key findings after running the analyses. Some potential insights based on the queries:)
 
 • Product category performance in terms of revenue
@@ -69,7 +69,7 @@ Key Insights
 • Customer spending patterns by type
 • Identification of best-selling and underperforming products
 
-Future Enhancements
+## Future Enhancements
 
 • Implement more advanced analytics such as customer lifetime value calculation and churn prediction
 • Create visualisations using a BI tool like Power BI or Tableau
