@@ -6,12 +6,11 @@ This project utilises SQL to analyse online order data from an e-commerce store.
 
 ## Table of Contents
 
-1. [Project Structure](#project-structure)
-2. [Data Sources](#data-sources)
-3. [Setup Instructions](#setup-instructions)
-4. [SQL Queries](#sql-queries)
-5. [Key Insights](#key-insights)
-6. [Future Enhancements](#future-enhancements)
+1. [Data Sources](#data-sources)
+2. [Setup Instructions](#setup-instructions)
+3. [SQL Queries](#sql-queries)
+4. [Key Insights](#key-insights)
+5. [Future Enhancements](#future-enhancements)
 
 
 ## Data Sources
