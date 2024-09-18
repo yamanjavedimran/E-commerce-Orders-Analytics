@@ -13,20 +13,6 @@ This project utilises SQL to analyse online order data from an e-commerce store.
 5. [Key Insights](#key-insights)
 6. [Future Enhancements](#future-enhancements)
 
-## Project Structure
-abc_orders_sql_analysis/
-│
-├── data/
-│   ├── orders.csv
-│   ├── products.csv
-│   └── account.csv
-│
-├── queries/
-│   └── analysis_queries.sql
-│
-├── README.md
-└── setup.sql
-
 
 ## Data Sources
 
